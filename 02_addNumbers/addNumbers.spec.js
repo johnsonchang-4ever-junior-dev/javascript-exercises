@@ -5,3 +5,5 @@ describe('addNumbers', () => {
     expect(addNumbers()).toEqual(2);
   });
 });
+
+// npm test javascript-exercises/02_addNumbers/addNumbers.spec.js
